@@ -15,6 +15,7 @@ Please choose one (or several) from **original** you'd like to translate and con
 ### 1、Original
 
 * [Inaugural developer relations survey](https://devrel.net/industry/inaugural-developer-relations-survey/)
+* [History of developer evangelism](https://devrel.net/industry/history-developer-evangelism-josh-marinacci)
 * [How to Become An Awesome Developer Evangelist When You’re Not a Developer](http://cmxhub.com/developer-evangelism-non-developer/)
 
 ### 2、Ongoing

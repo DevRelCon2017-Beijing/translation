@@ -12,16 +12,16 @@ Please choose one (or several) from **original** you'd like to translate and con
 
 ## Translation progress
 
-### 1、Original
+### 1. Original
 
 * [History of developer evangelism](https://devrel.net/industry/history-developer-evangelism-josh-marinacci)
 * [How to Become An Awesome Developer Evangelist When You’re Not a Developer (video)](http://cmxhub.com/developer-evangelism-non-developer/)
 * [5 Predictions for the Future of Developer Evangelism](http://cmxhub.com/developer-evangelism-community-predictions-for-the-future/)
 
-### 2、Ongoing
+### 2. Ongoing
 * [Inaugural developer relations survey](https://devrel.net/industry/inaugural-developer-relations-survey/) [(translator: Raman0716)](https://github.com/Raman0716)
 
-### 3、Review
+### 3. Review
 
 ### 4. Finished
 

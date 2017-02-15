@@ -17,6 +17,7 @@ Please choose one (or several) from **original** you'd like to translate and con
 * [History of developer evangelism](https://devrel.net/industry/history-developer-evangelism-josh-marinacci)
 * [How to Become An Awesome Developer Evangelist When You’re Not a Developer (video)](http://cmxhub.com/developer-evangelism-non-developer/)
 * [5 Predictions for the Future of Developer Evangelism](http://cmxhub.com/developer-evangelism-community-predictions-for-the-future/)
+* [Starting in Developer Relations: the non-obvious bits](https://devrel.net/craft/starting-in-developer-relations-the-non-obvious-bits)
 
 ### 2. Ongoing
 * [Inaugural developer relations survey](https://devrel.net/industry/inaugural-developer-relations-survey/) [(translator: Raman0716)](https://github.com/Raman0716)

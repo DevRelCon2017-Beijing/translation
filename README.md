@@ -6,6 +6,8 @@ DevRelCon is an opportunity for everyone working in developer relations — whet
 
 **How to join?**
 
-These articles are selected from previous speeches given by all community leaders of world-class corporations, well-known developer relation consultants or famous technical advocates. We expect to finish the translation during this Feb. Please choose one (or several) you'd like to translate and contact me (wechat: Hello_MrT) to mark. Translations will be reviewed by me and then published on DevEco's platforms, official Conference website or other social media, with the name of translator specified.
+These articles or videos are selected from previous speeches given by all community leaders of world-class corporations, well-known developer relation consultants or famous technical advocates. We expect to finish English-to-Chinese translation during this Feb. 
 
-Welcome to promote developer relation in China together with us. We will thank you for participating in this event as best as we can. And we believe it'll also be a memorable experience for yourself:-)
+Please choose one (or several) from **original** you'd like to translate and contact Miya to mark as **ongoing**. Pull request to send us your translation. The translations will be **reviewed** by Miya and Cherry, and then **finished** ones will be published on DevEco's platforms, official Conference website or other social media, with the name of translator specified.
+
+Welcome to promote developer relation in China together with us. We believe it'll be a memorable experience for yourself and we will also thank you for participating in this event as best as we can:)

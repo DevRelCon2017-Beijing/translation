@@ -30,4 +30,4 @@ Please choose one (or several) from **original** you'd like to translate and con
 
 Welcome to promote developer relation in China together with us. We believe it'll be a memorable experience for yourself and we will also thank you for participating in this event as best as we can:)
 
-<img style="magin:5px auto" src="logo.jpg"/>
+<img style="margin:5px auto" src="logo.jpg"/>

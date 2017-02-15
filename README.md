@@ -20,7 +20,7 @@ Please choose one (or several) from **original** you'd like to translate and con
 * [Starting in Developer Relations: the non-obvious bits](https://devrel.net/craft/starting-in-developer-relations-the-non-obvious-bits)
 
 ### 2. Ongoing
-* [Inaugural developer relations survey](https://devrel.net/industry/inaugural-developer-relations-survey/) [(translator: Raman0716)](https://github.com/Raman0716)
+* [Inaugural developer relations survey](https://devrel.net/industry/inaugural-developer-relations-survey/) 
 
 ### 3. Review
 
@@ -30,4 +30,4 @@ Please choose one (or several) from **original** you'd like to translate and con
 
 Welcome to promote developer relation in China together with us. We believe it'll be a memorable experience for yourself and we will also thank you for participating in this event as best as we can:)
 
-<img style="margin:0 auto" src="logo.jpg"/>
+<img src="logo.jpg"/>

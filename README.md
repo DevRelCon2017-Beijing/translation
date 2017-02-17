@@ -8,11 +8,11 @@ DevRelCon is an opportunity for everyone working in developer relations — whet
 
 These articles or videos are selected from previous speeches given by all community leaders of world-class corporations, well-known developer relation consultants or famous technical advocates. We expect to finish English-to-Chinese translation during this Feb.
 
-Please choose one (or several) from **original** you'd like to translate and contact Miya to mark as **ongoing**. Pull request to send us your translation. The translations will be **reviewed** by organizers, and then **finished** ones will be published on DevEco's platforms, official Conference website or other social media, with the name of translator specified.
+Please choose one (or several) from **original** you'd like to translate and contact Miya to mark as **ongoing**. Pull request to send us your translation or directly send to Miya through Wechat. The translations will be **reviewed** by organizers, and then **finished** ones will be published on DevEco's platforms, official Conference website or other social media, with the name of translator specified.
 
 ## Translation progress
 
-### 1. Original
+### 1. Original (more to be added)
 
 * [History of developer evangelism](https://devrel.net/industry/history-developer-evangelism-josh-marinacci)
 * [How to Become An Awesome Developer Evangelist When You’re Not a Developer (video)](http://cmxhub.com/developer-evangelism-non-developer/)

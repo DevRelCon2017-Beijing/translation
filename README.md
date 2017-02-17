@@ -19,14 +19,13 @@ Please choose one (or several) from **original** you'd like to translate and con
 * [Why B2D marketing gets it wrong](https://devrel.net/opinion/why-b2d-marketing-gets-it-wrong)
 * [Inaugural developer relations survey](https://devrel.net/industry/inaugural-developer-relations-survey)
 * [Developer experience is user experience (video)](https://devrel.net/developer-experience/developer-experience-user-experience)
-* [Hiring evangelists: five ways you’re doing it wrong](https://devrel.net/opinion/hiring-evangelists-youre-doing-it-wrong)
 * [Measuring developer evangelism (video)](https://devrel.net/craft/measuring-developer-evangelism)
 
 ### 2. Ongoing
 
 * [5 Predictions for the Future of Developer Evangelism](http://cmxhub.com/developer-evangelism-community-predictions-for-the-future/) (translator: Xingyun Lu)
 * [Starting in Developer Relations: the non-obvious bits](https://devrel.net/craft/starting-in-developer-relations-the-non-obvious-bits) [(translator: Qianqian Xu)](https://github.com/QianXuX)
-
+* [Hiring evangelists: five ways you’re doing it wrong](https://devrel.net/opinion/hiring-evangelists-youre-doing-it-wrong) （translator: Cheng Chen）
 ### 3. Review
 
 ### 4. Finished

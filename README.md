@@ -16,7 +16,11 @@ Please choose one (or several) from **original** you'd like to translate and con
 
 * [History of developer evangelism](https://devrel.net/industry/history-developer-evangelism-josh-marinacci)
 * [How to Become An Awesome Developer Evangelist When You’re Not a Developer (video)](http://cmxhub.com/developer-evangelism-non-developer/)
+* [Why B2D marketing gets it wrong](https://devrel.net/opinion/why-b2d-marketing-gets-it-wrong)
 * [Inaugural developer relations survey](https://devrel.net/industry/inaugural-developer-relations-survey)
+* [Developer experience is user experience (video)](https://devrel.net/developer-experience/developer-experience-user-experience)
+* [Hiring evangelists: five ways you’re doing it wrong](https://devrel.net/opinion/hiring-evangelists-youre-doing-it-wrong)
+* [Measuring developer evangelism (video)](https://devrel.net/craft/measuring-developer-evangelism)
 
 ### 2. Ongoing
 

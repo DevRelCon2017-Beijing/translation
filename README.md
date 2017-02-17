@@ -20,8 +20,8 @@ Please choose one (or several) from **original** you'd like to translate and con
 
 ### 2. Ongoing
 
-* [5 Predictions for the Future of Developer Evangelism](http://cmxhub.com/developer-evangelism-community-predictions-for-the-future/) [translator: Xingyun Lu]
-* [Starting in Developer Relations: the non-obvious bits](https://devrel.net/craft/starting-in-developer-relations-the-non-obvious-bits) [translator: Qianqian Xu](https://github.com/QianXuX)
+* [5 Predictions for the Future of Developer Evangelism](http://cmxhub.com/developer-evangelism-community-predictions-for-the-future/) (translator: Xingyun Lu)
+* [Starting in Developer Relations: the non-obvious bits](https://devrel.net/craft/starting-in-developer-relations-the-non-obvious-bits) [(translator: Qianqian Xu)](https://github.com/QianXuX)
 
 ### 3. Review
 

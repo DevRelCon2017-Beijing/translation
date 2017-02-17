@@ -26,6 +26,7 @@ Please choose one (or several) from **original** you'd like to translate and con
 * [5 Predictions for the Future of Developer Evangelism](http://cmxhub.com/developer-evangelism-community-predictions-for-the-future/) (translator: Xingyun Lu)
 * [Starting in Developer Relations: the non-obvious bits](https://devrel.net/craft/starting-in-developer-relations-the-non-obvious-bits) [(translator: Qianqian Xu)](https://github.com/QianXuX)
 * [Hiring evangelists: five ways you’re doing it wrong](https://devrel.net/opinion/hiring-evangelists-youre-doing-it-wrong) （translator: Cheng Chen）
+
 ### 3. Review
 
 ### 4. Finished

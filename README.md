@@ -23,7 +23,7 @@ Please choose one (or several) from **original** you'd like to translate and con
 
 * [5 Predictions for the Future of Developer Evangelism](http://cmxhub.com/developer-evangelism-community-predictions-for-the-future/)(translator: Xingyun Lu)
 
-## 3. Review
+### 3. Review
 
 ### 4. Finished
 

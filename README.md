@@ -22,11 +22,11 @@ Please choose one (or several) from **original** you'd like to translate and con
 * [Starting in Developer Relations: the non-obvious bits](https://devrel.net/craft/starting-in-developer-relations-the-non-obvious-bits) [(translator: Qianqian Xu)](https://github.com/QianXuX)
 * [Why B2D marketing gets it wrong](https://devrel.net/opinion/why-b2d-marketing-gets-it-wrong) (translator: Fiana)
 * [Inaugural developer relations survey](https://devrel.net/industry/inaugural-developer-relations-survey) [(translator: Dezheng Guo)](https://github.com/cxhy)
-* [How to Become An Awesome Developer Evangelist When You’re Not a Developer (video)](http://cmxhub.com/developer-evangelism-non-developer/) (translator: Xingyun Lu)
 
 ### 3. Review
 * [Hiring evangelists: five ways you’re doing it wrong](https://devrel.net/opinion/hiring-evangelists-youre-doing-it-wrong) （translator: Cheng Chen）
 * [5 Predictions for the Future of Developer Evangelism](http://cmxhub.com/developer-evangelism-community-predictions-for-the-future/) (translator: Xingyun Lu)
+* [How to Become An Awesome Developer Evangelist When You’re Not a Developer](http://cmxhub.com/developer-evangelism-non-developer/) (translator: Xingyun Lu)
 
 ### 4. Finished
 
